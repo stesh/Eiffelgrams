@@ -16,4 +16,4 @@ than understanding the relatively trivial algorithm.
 
 <code>string_sorter.e</code> Sorts the characters of a string - this uses
 quicksort, as instructed, but words are typically short enough for the
-O(n^2)/O(n log n) distinction not to matter too much.
+O(n^2) or O(n log n) distinction not to matter too much.
